@@ -1,7 +1,7 @@
 # 📊 Excel Data Analysis Project  
 
 ## 📝 About This Project  
-This project showcases my skills in **data analysis and visualization using Microsoft Excel**. The dataset used in this project includes **[أضف نوع البيانات هنا، مثل بيانات مبيعات، بيانات موظفين، إلخ]**, and I have applied various **Excel functions, Pivot Tables, Charts, and Power Query** to analyze and present insights.  
+This project showcases my skills in **data analysis and visualization using Microsoft Excel**. The dataset used in this project includes **[Car Sales Data Analysis]**, and I have applied various **Excel functions, Pivot Tables, Charts, and Power Query** to analyze and present insights.  
 
 ## 📂 Key Features  
 ✔️ **Data Cleaning** using Excel functions.  
