@@ -13,7 +13,10 @@ This project showcases my skills in **data analysis and visualization using Micr
 I have completed the following **IBM certifications** on Coursera:  
 - 📜 **IBM Data Analyst Professional Certificate**  
 - 📜 **IBM Introduction to Data Analytics**  
-- 📜 **IBM Data Visualization with Excel and Cognos**  
+- 📜 **IBM Data Visualization with Excel and Cognos**
+- 📜 **Google Foundations: Data, Data, Everywhere**
+- 📜 **Google Ask Questions to Make Data-Driven Decisions**
+- 📜 **Google Prepare Data for Exploration**
 
 ## 🛠️ Tools Used  
 - **Microsoft Excel (Functions, Pivot Tables, Charts, Power Query)**  
@@ -21,8 +24,8 @@ I have completed the following **IBM certifications** on Coursera:
 
 ## 📞 Contact Me  
 For any inquiries or collaboration opportunities, feel free to reach out:  
-- **LinkedIn:** [https://www.linkedin.com/in/mohamed-eslam-zalat-4b81672b6/](#)  
-- **Email:** eslamzalat43@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/mohamed-islam-zalat-4b81672b6/](#)  
+- **Email:** m.eslamzalat@gmail.com  
 
 ---
 
