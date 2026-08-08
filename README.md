@@ -111,7 +111,7 @@ Provides a centralized overview of key business metrics:
        COLLECTIONS ────────────┐
        SUPPLIER PAYMENTS ──────┼──► CASH POSITION
        EXPENSES ───────────────┘
-
+```
 ## 📈 **Business Impact**
 
 The system transformed the business from a largely manual, paper-based workflow into a **structured digital management system**.
