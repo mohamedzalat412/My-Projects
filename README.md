@@ -108,36 +108,41 @@ Provides a centralized overview of key business metrics:
                       ┌──────────┴──────────┐
                       │    WOOD CUTTING    │
                       └─────────────────────┘
-
-
-
-📈 Business Impact
-
-The system transformed the business from a largely manual, paper-based workflow into a structured digital management system.
-
-Key Improvements
-
-* 📦 Improved inventory visibility
-* 💰 Better financial tracking
-* 🎯 Increased data accuracy
-* ⚡ Improved operational efficiency
-* 💵 Better cash flow monitoring
-* 📊 Faster and more informed decision-making
-
-💡 Key Learning
-
-This project provided practical experience in translating real-world business processes into a structured data system.
-
-It combined:
-
-Excel + Data Analysis + Business Process Automation + Financial Tracking + Operations Management
-
-The project strengthened my understanding of how data can be used to improve real business operations and support management decisions.
-
-📷 Screenshots
-
-Screenshots of the system and dashboard will be added to demonstrate the main features, dashboards, and workflow.
-
        COLLECTIONS ────────────┐
        SUPPLIER PAYMENTS ──────┼──► CASH POSITION
        EXPENSES ───────────────┘
+
+## 📈 **Business Impact**
+
+The system transformed the business from a largely manual, paper-based workflow into a **structured digital management system**.
+
+### **Key Improvements**
+
+- 📦 **Improved inventory visibility**
+- 💰 **Better financial tracking**
+- 🎯 **Increased data accuracy**
+- ⚡ **Improved operational efficiency**
+- 💵 **Better cash flow monitoring**
+- 📊 **Faster and more informed decision-making**
+
+## 💡 **Key Learning**
+
+This project provided practical experience in translating **real-world business processes into a structured data system**.
+
+### **Core Areas**
+
+**Excel** • **Data Analysis** • **Business Process Automation** • **Financial Tracking** • **Operations Management**
+
+The project strengthened my understanding of how **data can be used to improve real business operations and support management decisions**.
+
+## 📷 **Screenshots**
+
+Screenshots of the system and dashboard will be added to demonstrate the main features, dashboards, and workflow.
+
+## 📌 **Project Information**
+
+| **Project Type** | Business Management & Data Analytics |
+|---|---|
+| **Technology** | Microsoft Excel |
+| **Domain** | Timber Trading |
+| **Focus** | Data Management, Operations, Financial Tracking & Business Intelligence |
